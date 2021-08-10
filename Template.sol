@@ -2,15 +2,15 @@
 **    
 **    Total tax - 10%
 **
-**    2% - Reflection/rewards. To be distributed equally amongst all holders of TEMP only on selling of TEMP tokens and not on wallet to wallet transfers. 
+**    2% - Reflections: to be distributed equally amongst all holders of TEMP only on selling of TEMP tokens and not on wallet to wallet transfers. 
 **
-**    2% - Burned.  Sent directly to the burn address as TEMP. This burn function will stop when total supply of TEMP = 100 trillion.  Tax will now total only 8% as of that point. 
+**    2% - Burned: sent directly to the burn address as TEMP. This burn function will stop when total supply of TEMP = 100 trillion.  Tax will now total only 8% as of that point. 
 **
-**    2% - Marketing.  This will be sent straight to the tax generated marketing wallet as TEMP. 
+**    2% - Marketing: this will be sent straight to the tax generated marketing wallet as TEMP. 
 **
-**    2% - Charity - this will be sent to a charity wallet as TEMP
+**    2% - Charity: this will be sent to a charity wallet as TEMP
 **
-**    2% - Liquidity pool - this will be sent directly to the liquidity pool as BNB 
+**    2% - Liquidity pool: this will be sent directly to the liquidity pool as BNB 
 **    
 **    10 trillion token burned every 7 days, untlil total supply would be set 100 trillion 
 **
